@@ -28,10 +28,12 @@ Refer to tokenize.py
 ---
 
 ## 2.Stopwords
-In natural language processing, useless words (data), are referred to as stop words.  
+In natural language processing, useless words (data), are referred to as stop words. We can remove them easily, by storing a list of words that you consider to be stop words.  
 
 Following are some stopwords:  
+  
 <img width="480" alt="aa" src="https://user-images.githubusercontent.com/39124232/42733529-4a40d17c-8850-11e8-980e-f7e0121a435c.PNG">
-
+  
+Refer to stopwords.py
 
 
