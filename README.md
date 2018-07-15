@@ -12,7 +12,7 @@ Each “entity” that is a part of whatever was split up based on rules. For ex
 
 ------
 # METHODS :
----
+
 ## 1.Tokenization
 
 #### word_tokenize()
