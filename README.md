@@ -28,7 +28,9 @@ Refer to tokenize.py
 ---
 
 ## 2.Stopwords
-
+In natural language processing, useless words (data), are referred to as stop words.  
+A stop word is a commonly used word (such as “the”, “a”, “an”, “in”) that a search engine has been programmed to ignore, both when indexing entries for searching and when retrieving them as the result of a search query.  
+Following are some stopwords:
 <img width="480" alt="aa" src="https://user-images.githubusercontent.com/39124232/42733529-4a40d17c-8850-11e8-980e-f7e0121a435c.PNG">
 
 
