@@ -19,7 +19,7 @@ Each “entity” that is a part of whatever was split up based on rules. For ex
 A sentence or data can be split into words using this method.
 
 #### sent_tokenize()
-A paragraph or a piece of text can be broken down into sentences.
+A paragraph or a piece of text can be broken down into sentences. \n
 Refer to tokenize.py
 
 ---
