@@ -20,5 +20,6 @@ A sentence or data can be split into words using this method.
 
 #### sent_tokenize()
 A paragraph or a piece of text can be broken down into sentences.
+Refer to tokenize.py
 
 ---
