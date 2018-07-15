@@ -25,7 +25,7 @@ A sentence or data can be split into words using this method.
 #### sent_tokenize()
 A paragraph or a piece of text can be broken down into sentences.  
   
-##### Refer to tokenize.py
+##### SEE tokenize.py
 
 ---
 
@@ -38,7 +38,7 @@ Following are some stopwords:
   
 <img width="480" alt="aa" src="https://user-images.githubusercontent.com/39124232/42733529-4a40d17c-8850-11e8-980e-f7e0121a435c.PNG">
   
-##### Refer to stopwords.py
+##### SEE stopwords.py
 
 ---
 
@@ -82,5 +82,5 @@ An n-gram is a set of n consecutive characters extracted from a word in which si
 Example: ‘INTRODUCTIONS’ for n=2 becomes : *I, IN, NT, TR, RO, OD, DU, UC, CT, TI, IO, ON, NS, S*  
 Advantage: It is based on string comparisons and it is language dependent.   
 Limitation: It requires space to create and index the n-grams and it is not time efficient.  
-##### Refer stemming.py
+##### SEE stemming.py
 ---
