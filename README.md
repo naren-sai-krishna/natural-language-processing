@@ -9,6 +9,8 @@ Body of text, singular. Corpora is the plural of this.
 Words and their meanings.
 ### Token 
 Each “entity” that is a part of whatever was split up based on rules. For examples, each word is a token when a sentence is “tokenized” into words. Each sentence can also be a token, if you tokenized the sentences out of a paragraph.
+### StopWords
+Stop Words: A stop word is a commonly used word (such as “the”, “a”, “an”, “in”) that a search engine has been programmed to ignore, both when indexing entries for searching and when retrieving them as the result of a search query.
 
 ------
 # METHODS :
@@ -24,3 +26,7 @@ A paragraph or a piece of text can be broken down into sentences.
 Refer to tokenize.py
 
 ---
+
+## 2.Stopwords
+
+
