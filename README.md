@@ -56,7 +56,7 @@ It is used to determine domain vocabularies in domain analysis.
 ### Potter’s Stemmer algorithm
 It is one of the most popular stemming methods proposed in 1980. It is based on the idea that the suffixes in the English language are made up of a combination of smaller and simpler suffixes.  
 Example: EED -> EE means “if the word has at least one vowel and consonant plus EED ending, change the ending to EE” as ‘agreed’ becomes ‘agree’.  
-Advantage: It produces the best output as compared to other stemmers and it has less error rate.  
+Advantage: It produces the **best output** as compared to other stemmers and it has less error rate.  
 Limitation:  Morphological variants produced are not always real words.    
 ### Lovins Stemmer
 It is proposed by Lovins in 1968, that removes the longest suffix from a word then word is recoded to convert this stem into valid words.  
