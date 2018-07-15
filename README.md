@@ -29,4 +29,7 @@ Refer to tokenize.py
 
 ## 2.Stopwords
 
+<img width="480" alt="aa" src="https://user-images.githubusercontent.com/39124232/42733529-4a40d17c-8850-11e8-980e-f7e0121a435c.PNG">
+
+
 
