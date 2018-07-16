@@ -126,5 +126,6 @@ WP	wh-pronoun	who, what
 WP$	possessive wh-pronoun	whose  
 WRB	wh-abverb	where, when  
 
+##### SEE parts-of-speech.py
 ---
 
